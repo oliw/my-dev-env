@@ -6,6 +6,7 @@ Little things that make me go faster
 - Homebrew
 - [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
 - [Z - jump around](https://github.com/rupa/z)
+- brew install bash-completion
 
 ## Vim
 - [Maximum Awesome](https://github.com/square/maximum-awesome)
